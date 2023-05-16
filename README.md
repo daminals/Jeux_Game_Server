@@ -1,3 +1,5 @@
+![github repo badge: Language](https://img.shields.io/badge/Language-C-181717?color=blue) ![github repo badge: OS](https://img.shields.io/badge/OS-Linux-181717?color=yellow)
+
 # Jeux_Game_Server
 A multithreaded game server designed to play TicTacToe via remote connection
 
